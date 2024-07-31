@@ -1,0 +1,5 @@
+- 👋 oi, Meu nome é Marciely Pydoschechen.
+- 📌 Estou estudando a plataforma alura.
+- 📌 Estou me desenvolvendo na linguagem JavaScript.
+- 📌 estou utilizando esse espaço para minha organização e corpartilhamento dos meus projetos.
+- 🖥️🖱️
